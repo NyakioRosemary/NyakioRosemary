@@ -1,5 +1,13 @@
 ### Hi there 👋
+My names are Nyakio. My interests are in Data Science & Software ML engineering. 
 
+🌱 I am currently deepning my knowledge in statisticts 
+
+👯I am looking to collaborate with anyone and any internships are welcome
+
+📫How to reach me nyakio19roseary@gmail.com
+
+⚡ fun fact: An As du code
 <!--
 **NyakioRosemary/NyakioRosemary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
