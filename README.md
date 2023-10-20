@@ -1,9 +1,11 @@
 ### Hi there 👋
-My names are Nyakio. My interests are in Data Science & Software ML engineering. 
+My names are Nyakio. My interests are in Machine learning Engineering. 
+
+CURRENT PROJECT NLP SENTIMENT ANNALYSIS BUILDING AN ALGORITHM TO UNDERSTAND SENTIMENT AND PREDICT 
 
 🌱 I am currently deepning my knowledge in statisticts 
 
-👯I am looking to collaborate with anyone and any internships are welcome
+👯I am looking to collaborate 
 
 📫How to reach me nyakio19roseary@gmail.com
 
